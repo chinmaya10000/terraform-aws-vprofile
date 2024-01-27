@@ -22,7 +22,7 @@ variable username {
 }
 
 variable my_ip {
-    default = "18.117.238.225/32"
+    default = "18.224.33.100/32"
 }
 
 variable rmquser {
