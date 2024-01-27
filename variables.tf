@@ -30,7 +30,7 @@ variable rmquser {
 }
 
 variable rmqpass {
-    default = "chinmaya@42"
+    default = "chinmaya@224207!"
 }
 
 variable dbuser {
